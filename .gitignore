@@ -1,0 +1,3 @@
+#Nu se includ fisiere de tip .class
+*.class
+*docx
